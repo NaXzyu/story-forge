@@ -1,6 +1,3 @@
-# Lore
-Story Data Lore Generate
-
 ## StoryForge: AI-Powered Novel Generation Engine
 
 ### Overview
